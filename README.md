@@ -9,7 +9,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <li>🧐 Learning about <strong>patterns for writing clean code with Python</strong>, <strong>algorithms</strong>, <strong>application architecture</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/GodAlexK">Github</a>.</li>
 <li>📙 Check out my <a href="https://spb.hh.ru/applicant/resumes/view?resume=3220aa14ff0cc752c20039ed1f797653527458" >resume</a>.</li>
-<li>💬 Talk to me about <strong>drift, boxing, tennis🎾, wakebording🏄, skiing, chinese tea</strong>.</li>
+<li>💬 Talk to me about <strong>drift, boxing, tennis🎾, wakebording🏄, skiing, chinese tea :japanese_castle:</strong>.</li>
 </ul>
 
 <h2> 🛠  Technologies and tools</h2>
@@ -31,13 +31,23 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-<hr>
+<h2> 📊 Github Stats</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GodAlexK&layout=compact)](https://github.com/GodAlexK/github-readme-stats) 
 
-<hr>
+<h2> :loudspeaker: Contacts </h2>
 <p align="center">
 <a target="_blank" href="mailto:kenlexa97@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://t.me/Korenkov_AA"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></img></a>
-</p>   
+</p>
+
+<!-- badge_plugin_start -->
+
+---
+<p align="center">
+<a href="https://github.com/GodAlexK" alt="https://github.com/GodAlexK"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=GodAlexK&color=000000"></a>
+<a href="https://github.com/GodAlexK/GodAlexK/blob/main/LICENSE" alt="https://github.com/GodAlexK/GodAlexK/blob/main/LICENSE"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=000000"></a>
+</p>
+
+<!-- badge_plugin_end -->
 
