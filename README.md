@@ -33,7 +33,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <h2> 📊 Github Stats</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GodAlexK&layout=compact)](https://github.com/GodAlexK/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KorenkovAlex&layout=compact)](https://github.com/KorenkovAlex/github-readme-stats) 
 
 <h2> :loudspeaker: Contacts </h2>
 <p align="center">
@@ -45,8 +45,8 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 ---
 <p align="center">
-<a href="https://github.com/GodAlexK" alt="https://github.com/GodAlexK"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=GodAlexK&color=000000"></a>
-<a href="https://github.com/GodAlexK/GodAlexK/blob/main/LICENSE" alt="https://github.com/GodAlexK/GodAlexK/blob/main/LICENSE"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=000000"></a>
+<a href="https://github.com/GodAlexK" alt="https://github.com/KorenkovAlex"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=GodAlexK&color=000000"></a>
+<a href="https://github.com/KorenkovAlex/KorenkovAlex/blob/main/LICENSE" alt="https://github.com/GodAlexK/GodAlexK/blob/main/LICENSE"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=000000"></a>
 </p>
 
 <!-- badge_plugin_end -->
